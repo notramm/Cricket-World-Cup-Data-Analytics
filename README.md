@@ -26,18 +26,18 @@ The Cricket Data Analytics🏏 project is made on T-20 Cricket World Cup Data. I
 
 # Screenshots of the Dashboard:
 
-![power_hitters_and_openers](https://user-images.githubusercontent.com/81465377/211144386-48070a65-7e8b-4370-af44-121b878b554b.jpg)
+![power_hitters_and_openers](https://github.com/notramm/Cricket-World-Cup-Data-Analytics/blob/master/Screenshots/power_hitters_and_openers.jpg)
 
-![hover_effect](https://user-images.githubusercontent.com/81465377/211144410-6e11c0cd-ab86-4357-b272-9019f5efa445.jpg)
+![hover_effect](https://github.com/notramm/Cricket-World-Cup-Data-Analytics/blob/master/Screenshots/hover_effect.jpg)
 
-![individual_stats](https://user-images.githubusercontent.com/81465377/211144427-bfb260dc-3586-4db2-879c-6d84f4e8ca2d.jpg)
+![individual_stats](https://github.com/notramm/Cricket-World-Cup-Data-Analytics/blob/master/Screenshots/individual_stats.jpg)
 
-![anchors](https://user-images.githubusercontent.com/81465377/211144441-423d3ba3-76ab-49bf-b0d7-9b107ca2086f.jpg)
+![anchors](https://github.com/notramm/Cricket-World-Cup-Data-Analytics/blob/master/Screenshots/anchors.jpg)
 
-![finishers](https://user-images.githubusercontent.com/81465377/211144456-6eb2581f-4574-4961-b693-4c8ff0dd7b19.jpg)
+![finishers](https://github.com/notramm/Cricket-World-Cup-Data-Analytics/blob/master/Screenshots/finishers.jpg)
 
-![all_rounders](https://user-images.githubusercontent.com/81465377/211144466-43003158-fe3e-41c0-b02a-ee4db2c53379.jpg)
+![all_rounders](https://github.com/notramm/Cricket-World-Cup-Data-Analytics/blob/master/Screenshots/all_rounders.jpg)
 
-![fast_bowlers](https://user-images.githubusercontent.com/81465377/211144473-03ca6186-b8e8-419f-87a1-786f6a2d62a6.jpg)
+![fast_bowlers](https://github.com/notramm/Cricket-World-Cup-Data-Analytics/blob/master/Screenshots/fast_bowlers.jpg)
 
-![pick_final_11](https://user-images.githubusercontent.com/81465377/211144486-4b48e1fc-fab3-4bb0-b660-7b4da5be627d.jpg)
+![pick_final_11](https://github.com/notramm/Cricket-World-Cup-Data-Analytics/blob/master/Screenshots/pick_final_11.jpg)
